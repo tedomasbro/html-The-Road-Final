@@ -7,17 +7,12 @@
   text-decoration: none;
   box-sizing: border-box;
   outline: none;
-  margin-bottom: 0;
-  margin-right: 0;
-  margin-block-end: auto;
-  margin-inline-end: auto;
 }
 
 html {
-  font-size: 62.5% ;
+  font-size: 62.5%;
 }
 
-/* kadal */
 :root {
   --primary-color: #2b81e4;
   --secondary-color: #eee;
